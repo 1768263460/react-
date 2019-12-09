@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.scss"],"names":[],"mappings":"AAAA,SACI,iBAAkB,CAClB,MAAO,CACP,QAAS,CACT,eAAgB,CAChB,UAAW","file":"14.8e607e70.chunk.css","sourcesContent":[".wrapper{\r\n    position: absolute;\r\n    left: 0;\r\n    bottom: 0;\r\n    overflow: hidden;\r\n    width: 100%;\r\n}"]}
